@@ -1,0 +1,92 @@
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase3\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase4\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase5\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Desktop\Prueba Ramiro Benavides\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\sebas\Downloads\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.deps.json
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Infraestructure.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Domain.pdb
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\bin\Debug\net6.0\Prueba.Biblioteca.Infraestructure.pdb
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Prueba.Biblioteca.Application.dll
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\Prueba.Biblioteca.Application.pdb
+C:\Users\LENOVO\Downloads\Fase6\Fase6\Fase6\Prueba.Biblioteca\src\Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Prueba.Biblioteca.Application.dll
